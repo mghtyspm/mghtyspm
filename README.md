@@ -11,7 +11,7 @@ I use this GitHub profile to share cybersecurity-related projects and tools that
 - **Repository Link**: [View Project](https://github.com/mghtyspm/Mac-Changer/)
 
 ### 🔄 Project 2: Network Scanner  
-- **Description**: A Python-based tool that scans a specified IP range for active devices on a network. It utilizes ARP requests to identify devices and retrieve their IP and MAC addresses, providing valuable insights into the devices connected to a local network.
+- **Description**: A Python-based tool that scans a specified IP range for active devices on a network. It utilizes ARP requests to identify devices and retrieve their **IP and MAC addresses**, providing valuable insights into the devices connected to a local network.
 - This tool is ideal for network administrators and cybersecurity enthusiasts looking to monitor or audit their network environment. The script is lightweight, efficient, and features clear output for ease of use.
 - **Technologies Used**: Python, Scapy Library, ARP Protocol, Ethernet Frame Handling, Networking Concepts.
 - **Repository Link**:
