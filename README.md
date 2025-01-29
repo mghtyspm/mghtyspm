@@ -22,8 +22,8 @@ You can also check out my cybersecurity-related articles on [Medium](https://med
 - **Description**: A simple Python-based remote keylogger that captures keystrokes and sends the logs via email at regular intervals. This tool uses Zoho's SMTP for secure log transmission and can be customized to suit your email and reporting preferences.
 - Intended for educational purposes in controlled environments only.
 - **Technologies Used**:
-  1. Python: The core programming language for implementing the keylogger functionality.
-  2. pynput: A Python library used for capturing keystrokes, enabling the keylogging feature.
-  3. smtplib: A built-in Python library used for sending email logs securely via SMTP.
-  4. Zoho SMTP: The email service used for transmitting the captured logs via email, replacing Gmail due to recent changes in Gmail's SMTP policies.
+  1. **Python**: The core programming language for implementing the keylogger functionality.
+  2. **pynput**: A Python library used for capturing keystrokes, enabling the keylogging feature.
+  3. **smtplib**: A built-in Python library used for sending email logs securely via SMTP.
+  4. **Zoho SMTP**: The email service used for transmitting the captured logs via email, replacing Gmail due to recent changes in Gmail's SMTP policies.
 - **Repository Link**: [View project](https://github.com/mghtyspm/keylogger)
